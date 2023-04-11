@@ -44,3 +44,24 @@
 [2023-04-11 06:59:20.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/html-language-features/client/dist/htmlMain
 [2023-04-11 07:01:05.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
 [2023-04-11 07:01:05.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/python/dist/pythonMain
+[2023-04-11 07:09:14.569] [exthost] [info] extension host started
+[2023-04-11 07:09:14.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2023-04-11 07:09:14.617] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2023-04-11 07:09:14.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2023-04-11 07:09:14.621] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/emmet/dist/extension
+[2023-04-11 07:09:14.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2023-04-11 07:09:14.648] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/git/dist/main
+[2023-04-11 07:09:14.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2023-04-11 07:09:14.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2023-04-11 07:09:14.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2023-04-11 07:09:14.696] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2023-04-11 07:09:14.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2023-04-11 07:09:14.700] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2023-04-11 07:09:14.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2023-04-11 07:09:14.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2023-04-11 07:09:14.705] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2023-04-11 07:09:14.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coder/eamodio.gitlens-10.2.3/dist/extension
+[2023-04-11 07:09:14.759] [exthost] [info] eager extensions activated
+[2023-04-11 07:09:15.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2023-04-11 07:09:15.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/local/lib/code-server/lib/vscode/extensions/html-language-features/client/dist/htmlMain
+[2023-04-11 07:09:15.137] [exthost] [warning] [Deprecation Warning] 'Webview vscode-resource: uris' is deprecated. Please migrate to use the 'webview.asWebviewUri' api instead: https://aka.ms/vscode-webview-use-aswebviewuri

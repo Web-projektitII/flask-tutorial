@@ -1,1 +1,7 @@
 [2023-04-07 17:18:18.386] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/Machine'
+[2023-04-11 07:08:48.676] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2023-04-11 07:08:49.164] [remoteagent] [info] Downloaded extension: eamodio.gitlens /tmp/bf66af89-d8ea-4794-836a-0fa84a8ecaac
+[2023-04-11 07:08:49.808] [remoteagent] [info] Extracted extension to /home/coder/.eamodio.gitlens-10.2.3: eamodio.gitlens
+[2023-04-11 07:08:49.808] [remoteagent] [info] Renamed to /home/coder/eamodio.gitlens-10.2.3
+[2023-04-11 07:08:49.826] [remoteagent] [info] Installation completed. eamodio.gitlens
+[2023-04-11 07:08:49.844] [remoteagent] [info] Extensions installed successfully: eamodio.gitlens
